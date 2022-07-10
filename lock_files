@@ -1,10 +1,6 @@
 import PySimpleGUI as sg
 import glob
 
-
-# estou digitando esse codigo mas ele será criptografado e só sera liberado qd o acesso tiver ok
-# apos o login e senha estiverem corretos o programa deve descriptografar esse arquivo e usar ele para descriptografar os outros
-
 def main():
     sg.theme('DarkPurple4')
     
