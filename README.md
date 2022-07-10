@@ -7,4 +7,4 @@ Para acessar ele pede um login e senha, você deve entrar usando o login e senha
 Analizando os arquivos de login e senha você perceberá que eles estão criptografados. Não é possivel ver, foi um esquema de segurança que eu estava testando.
 Você também pode trocar a senha pelo botão de trocar senha, e de fato, o arquivo com a senha criptogrfada é alterado.
 
-Esse programa é util para quem tem arquivos confidencias que devem ser guardados em extremo sigilo.
+Esse programa é útil para quem tem arquivos confidenciais que devem ser guardados em extremo sigilo.
